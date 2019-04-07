@@ -1,0 +1,24 @@
+{
+  "name": "speaker-pipeline",
+  "version": "1.0.0",
+  "description": "SDJS Speaker Pipeline",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhicode/speaker-pipeline.git"
+  },
+  "keywords": [
+    "sdjs",
+    "san-diego",
+    "javascript",
+    "women-of-sdjs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huynhicode/speaker-pipeline/issues"
+  },
+  "homepage": "https://github.com/huynhicode/speaker-pipeline#readme"
+}
